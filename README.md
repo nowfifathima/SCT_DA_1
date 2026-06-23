@@ -1,4 +1,4 @@
-#  Data Analyst Internship - Task 01
+#  Data Analyst  - Task 01
 
 ## Sales Dashboard Analysis
 

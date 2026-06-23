@@ -1,10 +1,10 @@
-**Data Analyst  -  Task 01**
+#  Data Analyst Internship - Task 01
 
-**Sales Dashboard Analysis**
+## Sales Dashboard Analysis
 
-**Project Overview**
+###  Project Overview
 
-This project focuses on analyzing sales data and creating an interactive dashboard using Microsoft Excel. The dashboard helps visualize key business metrics such as sales, profit, and regional performance.
+This project focuses on analyzing sales data and creating an interactive dashboard using Microsoft Excel. The dashboard helps visualize key Zbusiness metrics such as sales, profit, and regional performance.
 
 **Tools Used**
 
